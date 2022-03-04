@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on finishing my UW Coding Bootcamp
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ...
-- 😄 Pronouns: She/Her or They/Them
+- 😄 Pronouns: She/They
 - ⚡ Fun fact: I have a corgi named River 💕
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Acanthodoris&count_private=true&theme=tokyonight&showicons=true)]()
