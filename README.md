@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on finishing my UW Coding Bootcamp
 - 🌱 I’m currently learning React
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Email](mailto:Rebeccah.May@Gmail.com) or [LinkedIn](https://www.linkedin.com/in/rebeccah-may/)
 - 😄 Pronouns: She/They
 - ⚡ Fun fact: I have a corgi named River 💕
 
